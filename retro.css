@@ -1,0 +1,39 @@
+.container{
+	color: black;
+}
+
+.nav-wrapper{
+	font-family: 'Dosis', sans-serif;
+}
+
+.text{
+	margin: 75vh;
+	padding: 5vh; 
+}
+
+.page-footer{
+	margin-top: 75vh;
+}
+.image-footer{
+	width: 4%;
+	height: 4%;
+}
+
+.copyright{
+	color: black;
+	font-size: 1em;
+}
+
+.texto{
+	color: black;
+}
+
+.col-footer{
+	color: black;
+	font-size: 1em;
+}
+
+body{
+	background-image: url("img/background/record-player.jpg");
+	background-attachment: fixed;
+}
